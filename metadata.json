@@ -1,0 +1,5 @@
+{
+  "name": "Generador de Cotizaciones - Cerezo",
+  "description": "Una aplicación web que utiliza IA para analizar y generar cotizaciones de servicios de forma automática, aprendiendo de patrones y ofreciendo recomendaciones para optimizar precios y procesos.",
+  "requestFramePermissions": []
+}
