@@ -1,0 +1,105 @@
+
+[
+  {
+    "id": "cotizacion_kaldis",
+    "client": "Kaldis",
+    "project": "Sesión de producto y video corto",
+    "services": [
+      { "description": "Sesión de producto en cafetería", "quantity": 1, "price": 1000 },
+      { "description": "Reel de producto", "quantity": 1, "price": 400 }
+    ],
+    "total_soles": 1400,
+    "igv": false
+  },
+  {
+    "id": "cotizacion_utec",
+    "client": "EP UTEC",
+    "project": "Grabación de clase",
+    "services": [
+      { "description": "Grabación de clase presencial", "quantity": 1, "price": 1600 },
+      { "description": "Adaptación a formato cápsulas", "quantity": 1, "price": 600 }
+    ],
+    "total_soles": 2200,
+    "igv": false
+  },
+  {
+    "id": "cotizacion_utel",
+    "client": "UTEL",
+    "project": "Producción institucional",
+    "services": [
+      { "description": "Grabación institucional", "quantity": 1, "price": 2000 },
+      { "description": "Edición institucional", "quantity": 1, "price": 800 }
+    ],
+    "total_soles": 2800,
+    "igv": false
+  },
+  {
+    "id": "cotizacion_ricardo",
+    "client": "Ricardo",
+    "project": "Producción de video personal",
+    "services": [
+      { "description": "Grabación de entrevista", "quantity": 1, "price": 700 },
+      { "description": "Edición de entrevista", "quantity": 1, "price": 500 }
+    ],
+    "total_soles": 1200,
+    "igv": false
+  },
+  {
+    "id": "cotizacion_romex",
+    "client": "Romex - Cafetal",
+    "project": "Producción institucional",
+    "services": [
+      { "description": "Grabación en planta", "quantity": 1, "price": 1500 },
+      { "description": "Edición institucional", "quantity": 1, "price": 1200 }
+    ],
+    "total_soles": 2700,
+    "igv": true
+  },
+  {
+    "id": "cotizacion_saba",
+    "client": "SABA Equipamientos",
+    "project": "Producción de contenido",
+    "services": [
+      { "description": "Grabación institucional", "quantity": 1, "price": 1600 },
+      { "description": "Reel de producto", "quantity": 1, "price": 400 }
+    ],
+    "total_soles": 2000,
+    "igv": true
+  },
+  {
+    "id": "cotizacion_gyservice",
+    "client": "GY SERVICE",
+    "project": "Lanzamiento Chery",
+    "services": [
+      { "description": "Grabación de evento", "quantity": 1, "price": 2000 },
+      { "description": "Edición de video resumen", "quantity": 1, "price": 600 },
+      { "description": "Pieza vertical para RRSS", "quantity": 1, "price": 400 }
+    ],
+    "total_soles": 3000,
+    "igv": true
+  },
+  {
+    "id": "cotizacion_monkeyfit",
+    "client": "Monkeyfit",
+    "project": "Testimoniales audiovisuales",
+    "services": [
+      { "description": "Grabación de testimoniales", "quantity": 1, "price": 900 },
+      { "description": "Edición de testimoniales", "quantity": 1, "price": 800 }
+    ],
+    "total_soles": 1700,
+    "igv": true
+  },
+  {
+    "id": "cotizacion_cafezaso",
+    "client": "Festival del Cafezaso Peruano",
+    "project": "Cobertura audiovisual",
+    "services": [
+      { "description": "Registro de video 1 cámara ½ día", "quantity": 1, "price": 600 },
+      { "description": "Registro de video 1 cámara 1 día", "quantity": 1, "price": 1000 },
+      { "description": "Edición de video resumen 3 min", "quantity": 1, "price": 500 },
+      { "description": "Edición de video Aeropress 1-2 min", "quantity": 1, "price": 300 }
+    ],
+    "total_soles": 2400,
+    "igv": false
+  }
+]
